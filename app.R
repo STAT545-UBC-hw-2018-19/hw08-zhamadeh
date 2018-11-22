@@ -3,8 +3,7 @@ library(ggplot2)
 library(dplyr)
 library(tidyverse)
 library(data.table)
-head(cancer_set)
-str(cancer_set)
+library(rsconnect)
 
 
 cancer_set <- read.csv("GSE58606_data.csv") %>%

@@ -1,0 +1,12 @@
+name: hw08-zhamadeh
+title:
+username:
+account: zhamadeh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 584519
+bundleId: 1714358
+url: https://zhamadeh.shinyapps.io/hw08-zhamadeh/
+when: 1542860621.54021
+asMultiple: FALSE
+asStatic: FALSE
